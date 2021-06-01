@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/saurabhsuman20100945/github-saurabhsuman2010/_apis/build/status/saurabhsuman2010.ContosoAir?branchName=master)](https://dev.azure.com/saurabhsuman20100945/github-saurabhsuman2010/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
